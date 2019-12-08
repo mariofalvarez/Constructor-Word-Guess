@@ -1,0 +1,16 @@
+{
+  "name": "11-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.0.0",
+    "random-words": "^1.1.0"
+  }
+}
